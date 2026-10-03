@@ -1,0 +1,7 @@
+[
+  { "name": "Ahmed", "age": 25, "city": "Cairo" },
+  { "name": "Mona", "age": 30, "city": "Alexandria" },
+  { "name": "Ali", "age": 27, "city": "Giza" },
+  { "name": "Sara", "age": 22, "city": "Mansoura" },
+  { "name": "Omar", "age": 35, "city": "Aswan" }
+]

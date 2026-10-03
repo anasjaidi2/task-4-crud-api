@@ -1,0 +1,13 @@
+{
+  "name": "task-4-crud-api",
+  "version": "1.0.0",
+  "description": "Basic CRUD API using Express and MongoDB",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.4.1"
+  }
+}
